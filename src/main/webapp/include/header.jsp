@@ -7,4 +7,3 @@
 <title><%=request.getAttribute("title")%></title>
 </head>
 <body>
-	<h1>This is header</h1>
